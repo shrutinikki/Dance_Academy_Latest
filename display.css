@@ -1,0 +1,60 @@
+body
+{
+	background-color: yellow;
+}
+.menus
+{
+	color: white;
+	background-color: blue;
+	font-family: georgia, serif;
+	text-align: center;
+}
+.heading
+{
+	text-align: center;
+	font-family: georgia, arial;
+	color: blue;
+}
+.logo
+{
+	height: 20%;
+	width: 20%;
+}
+.imgs
+{
+	height: 100px;
+	width: 100px;
+}
+.clss
+{
+	text-align: center;
+	font-family: georgia;
+	border-spacing:10px;
+}
+.txts
+{
+	font-family: arial;
+	word-spacing: 2px;
+}
+.contact
+{
+	list-style-type: decimal;
+	list-style-position: inside;
+}
+b{
+	color: blue;
+	font-style: italic;
+}
+a
+{
+	text-decoration: none;
+}
+.imgslides
+{
+	width: 350px;
+}
+.tableform
+{
+	border: 1px;
+	text-align: left;
+}
